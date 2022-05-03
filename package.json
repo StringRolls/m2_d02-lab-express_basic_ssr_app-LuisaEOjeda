@@ -1,0 +1,29 @@
+{
+  "name": "m2_d02-lab-express_basic_ssr_app-luisaeojeda",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7778547&assignment_repo_type=AssignmentRepo) ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StringRolls/m2_d02-lab-express_basic_ssr_app-LuisaEOjeda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StringRolls/m2_d02-lab-express_basic_ssr_app-LuisaEOjeda/issues"
+  },
+  "homepage": "https://github.com/StringRolls/m2_d02-lab-express_basic_ssr_app-LuisaEOjeda#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon" : "^2.0.16"
+  }
+}
